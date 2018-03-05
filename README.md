@@ -19,5 +19,6 @@ $ init run_level
 ## Upgrade ubuntu
 $ sudo do-release-upgrade -d
 
-
+## Change the permissions of the file
+$ chmod 775 name_of_file
 
