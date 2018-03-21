@@ -1,6 +1,5 @@
 # Linux Commands
 
-
 * #### Change to another user *`$ su - user_name`*
 
 * #### Create a new user *`$ adduser user_name`*
