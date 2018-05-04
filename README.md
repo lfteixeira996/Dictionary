@@ -18,3 +18,7 @@
      - #### Read file(content of the file displayed in the terminal) *`$ cat file1`*
      - #### Concatenation(concatenate and generate a new one) *`$ cat file1 file2 > file4`*
      - #### File creation(create a new file) *`$ cat > file1`* 
+     
+* #### List of all installed packages on your computer *`$ dpkg --list`*     
+
+* #### Uninstalls gimp and deletes all the configuration files *`$ sudo apt-get --purge remove gimp`*   
