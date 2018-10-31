@@ -24,3 +24,5 @@
 * #### Uninstalls gimp and deletes all the configuration files *`$ sudo apt-get --purge remove gimp`*   
 
 * #### Display the current user and password *`$ whoami `*
+
+* #### Print working directory *`$ pwd `*
