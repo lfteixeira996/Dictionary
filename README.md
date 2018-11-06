@@ -26,3 +26,5 @@
 * #### Display the current user and password *`$ whoami `*
 
 * #### Print working directory *`$ pwd `*
+
+* #### Find file in all system *`$ find / -name "name_of_the_file" `* --> to hide error messages add *`2> /dev/null`*
