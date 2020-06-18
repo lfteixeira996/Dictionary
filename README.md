@@ -1,5 +1,7 @@
 # Linux Commands
 
+#### Open the Terminal CTRL+ALT+T
+
 * #### Change to another user *`$ su - user_name`*
 
 * #### Create a new user *`$ adduser user_name`*
